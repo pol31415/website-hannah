@@ -1,0 +1,32 @@
++-------------------+       +-------------------+       +-------------------+
+|   Gebruiker       |       |   Frontend        |       |   Backend         |
+|   (Browser)       |       |   (HTML/CSS/JS)   |       |   (Node.js/DB)    |
++-------------------+       +-------------------+       +-------------------+
+         |                           |                           |
+         | 1. Opent webpagina        |                           |
+         |-------------------------->|                           |
+         |                           | 2. Laadt paspop en kleding|
+         |                           |-------------------------->|
+         |                           | 3. Haalt kledingstukken op|
+         |                           |<--------------------------|
+         | 4. Toont kledingstukken   |                           |
+         |<--------------------------|                           |
+         | 5. Selecteert kleding     |                           |
+         |-------------------------->|                           |
+         |                           | 6. Update paspop          |
+         | 7. Ziet kleding op paspop |                           |
+         |<--------------------------|                           |
+         | 8. Slaat outfit op (opt.) |                           |
+         |-------------------------->|                           |
+         |                           | 9. Slaat op in database   |
+         |                           |-------------------------->|
+         |                           | 10. Bevestiging          |
+         |                           |<--------------------------|
+         | 11. Bevestiging aan gebruiker|
+         |<--------------------------|                           |
+
+
+
+
+database superuser paswoord: admin
+portnumber: 5432

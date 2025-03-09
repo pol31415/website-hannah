@@ -1,0 +1,10 @@
+1) welke pagina's heeft de website:
+
+index (home-page)
+about
+shop
+galery
+
+2) hoe moet elk van die pagina's er uit zien => tekeningen maken van alles
+
+3) voor het apje met de kleren passen en kiezen: er gaan foto's moeten gemaakt worden van alle kleren op een real life paspop, die moeten dan bewerkt worden en omgezet naar svg's zodat ze passen op de digitale paspop
